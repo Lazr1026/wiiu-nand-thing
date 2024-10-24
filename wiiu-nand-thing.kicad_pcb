@@ -2006,8 +2006,9 @@
 		(uuid "d2bb3cee-f1b4-416b-89c2-4b58e0f7bfb6")
 		(at 119.23 66.64 180)
 		(property "Reference" "U1"
-			(at -6.731 7.239 0)
+			(at -0.01 0 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "d004341a-cf45-4b42-9dd6-57067257c45a")
 			(effects
 				(font
